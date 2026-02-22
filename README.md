@@ -1,4 +1,6 @@
-**Overview**
+****Overview****
+
+
 This project predicts whether a patient has heart disease using an Artificial Neural Network (ANN).
 
 Heart disease is one of the leading causes of death worldwide. Early detection using machine learning and deep learning techniques can assist healthcare professionals in decision-making.
@@ -6,6 +8,7 @@ Heart disease is one of the leading causes of death worldwide. Early detection u
 This project demonstrates how ANN can be applied to structured medical data for binary classification problems.
 
 **Dataset**
+
 age
 sex
 cp
