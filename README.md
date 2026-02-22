@@ -23,6 +23,8 @@ slope
 ca
 thal
 
+
+
 **Problem Type**
 
 Supervised Learning
@@ -35,6 +37,9 @@ Target Variable:
 
 1 → Heart Disease Present
 
+
+
+
 **Model Architecture**
 
 The Artificial Neural Network consists of:
@@ -46,6 +51,9 @@ Hidden Layer 1 → 32 Neurons (ReLU)
 Hidden Layer 2 → 16 Neurons (ReLU)
 
 Output Layer → 1 Neuron (Sigmoid)
+
+
+
 
 **Loss Function:**
 
@@ -61,6 +69,9 @@ Accuracy
 
 Confusion Matrix
 
+
+
+
 **Data Preprocessing**
 
 Train-Test Split (80-20)
@@ -70,6 +81,9 @@ Feature Scaling using StandardScaler
 Validation Split during training
 
 Scaling is important because ANN is sensitive to feature magnitude.
+
+
+
 
 **Technologies Used**
 
